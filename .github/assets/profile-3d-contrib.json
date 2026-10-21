@@ -2,7 +2,7 @@
     {
         "type": "season",
         "fileName": "profile-season-light.svg",
-        "backgroundColor": "#ffffff",
+        "backgroundColor": "transparent",
         "foregroundColor": "#0f172a",
         "strongColor": "#0c4a6e",
         "weakColor": "gray",
@@ -40,7 +40,7 @@
     {
         "type": "season",
         "fileName": "profile-season-dark.svg",
-        "backgroundColor": "#0b1220",
+        "backgroundColor": "transparent",
         "foregroundColor": "#cbd5e1",
         "strongColor": "#38bdf8",
         "weakColor": "#7c8ea3",
