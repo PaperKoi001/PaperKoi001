@@ -10,9 +10,9 @@
 <!-- 3D 城市立体贡献图（静态，关闭 growing 动画；明暗自适应） -->
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-light.svg" />
-        <img width="800" src="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-light.svg" alt="3D City Contribution" title="3D City Contribution" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-dark.svg?v=1" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-light.svg?v=1" />
+        <img width="800" src="https://raw.githubusercontent.com/PaperKoi001/PaperKoi001/output/profile-3d-contrib/profile-season-light.svg?v=1" alt="3D City Contribution" title="3D City Contribution" />
     </picture>
 </div>
 
